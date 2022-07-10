@@ -1,0 +1,5 @@
+  name =  AAA, age=10,  score=1.1
+name=  BB, age= 11, score=1.3
+  name=C,   age  =12,   score=  1.2
+name=DDD, age=20, score=2.1
+name=EE, age=30, score=3.1
