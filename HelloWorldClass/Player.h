@@ -11,5 +11,5 @@ public:
 	int GetGold();
 	void SetGold(int newGold);
 
-	void Move() override;
+	void Move();
 };

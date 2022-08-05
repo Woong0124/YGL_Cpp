@@ -14,6 +14,6 @@ public:
 	Character();
 	virtual ~Character();
 
-	virtual void Move();
+	void Move();
 	void Attack();
 };
